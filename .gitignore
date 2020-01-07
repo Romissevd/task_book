@@ -8,3 +8,8 @@ env.bak/
 venv.bak/
 
 .idea/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
