@@ -15,6 +15,15 @@ pip install django==2.2.8
 ```
 pip install psycopg2
 ```
+### Django REST API framework
+```
+pip install djangorestframework
+```
+
+### Authentication user
+```
+pip install djoser
+```
 
 ## Postgresql settings
 ### Create database
